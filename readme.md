@@ -317,7 +317,7 @@ However, if you are using this project and happy with it or just want to encoura
 
 Thanks! :heart:
 
----
+------
 
 Contributions are welcomed! <3
 
